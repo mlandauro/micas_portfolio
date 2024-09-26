@@ -1,1 +1,6 @@
-# micas_portfolio
+# Data Scientist
+
+### Education
+Computer Science, Bachelors
+Physics, Minor
+
